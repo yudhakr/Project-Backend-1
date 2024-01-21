@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 # Tentang
-- Merupakan aplikasi back-end Sistem Informasi Penilaian Sekolah dengan menggunakan framework Laravel dan Penyimpanan MongoDB.
+- Merupakan endpoint menggunakan framework Laravel dan penyompanan MongoDB dengan Kasus Penggunaan sebuah sistem informasi penilaian sekolah tersimplifikasi.
 
 # Setup
 - Buka direktori project di terminal anda.
@@ -27,6 +27,3 @@
 - Ayudha Kusuma R.
 
 
-
-
-<p align="center"><b> ~ TERIMA KASIH ~ </b></p>
